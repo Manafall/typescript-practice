@@ -5,6 +5,6 @@
 // export function isEvenOrOdd...
 
 export function isEvenOrOdd(num: number): string {
-    return num % 2 === 0 ? "odd" : "even";
+    return num % 2 === 0 ? "even" : "odd";
   }
   
